@@ -1,5 +1,6 @@
 # juniorsev3n.github.io
 
-For my github profile
-# build
-with material design
+This repo just for link my self.
+
+# Build
+- Material Design
